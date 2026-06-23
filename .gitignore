@@ -1,0 +1,9 @@
+.venv/
+dataset_entregable/
+dataset_raw/
+dataset_yolo/
+runs/
+trt_cache/
+*.zip
+*.pt
+__pycache__/
